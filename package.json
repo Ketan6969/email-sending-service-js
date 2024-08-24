@@ -1,0 +1,12 @@
+{
+  "name": "email-sending-service",
+  "version": "1.0.0",
+  "description": "This is a reposatory for a service that send emails using javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
